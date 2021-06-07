@@ -1,3 +1,5 @@
-word = input().split()
+# 입력된 문장에서 단어를 찾는 문제
 
-print(len(word))
+word = input().split() # 파이썬에는 split()를 이용하여 입력받은 문자열을 잘라서 저장이 가능하다
+
+print(len(word)) # 저장된 배열의 길이를 출력하면 단어의 갯수가 된다
