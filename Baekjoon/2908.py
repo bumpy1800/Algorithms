@@ -9,4 +9,4 @@ b.reverse()
 a=''.join(a) # 문자열로 만든다
 b=''.join(b)
 
-print(max(a,b)) # 큰수 출력
+print(max(a,b)) # 큰수를 출력한다
